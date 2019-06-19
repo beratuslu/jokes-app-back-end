@@ -16,7 +16,7 @@ To get this Boilerplate up & running you need to have some components installed 
 
 ### Dependencies
 1. NodeJS (preferably the version recommended for most users)
-1. MySQL (e.g. via a package like XAMPP or WAMP or you can use Docker - https://dzone.com/articles/docker-for-mac-mysql-setup)
+1. MySQL (Embedded in _mysql you will find a docker-compose file or e.g. have it available via a package like XAMPP or WAMP)
 1. NPM packages (also see package.json for versions);
     1. Sequelize installed globally (https://www.npmjs.com/package/sequelize)
     2. Sequelize-cli installed globally (https://www.npmjs.com/package/sequelize-cli)
@@ -34,7 +34,7 @@ To get this Boilerplate up & running you need to have some components installed 
 1. Start the server by running `$ node index.js` from the root of the project or use nodemon to use features like livereload.
 1. Or run `$ nodemon` from the root of the project to enable this feature.
 
-*Note: A default admin user (as specified in the config) is created if it doesn`t exist in the database table Users.*
+*Note: A default admin user (as specified in the config) is created if it doesn`t exist in the database table Users when you start the Node instance.*
 
 ## Functionalities
 The API-Gateway offers the following default functionalities & API's
