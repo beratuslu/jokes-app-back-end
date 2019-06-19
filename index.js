@@ -13,13 +13,13 @@ if( config.env === 'dev'){
     require('./database/testdata/testdata');
 }
 
-
 /**
  * HTTP Server
  * Start the HTTP-Server if it is enabled in the config
  */
 if (config.server.enableHTTP) {
     app.listen(config.server.http.port);
+    logger.info(`${config.server.http.name} running on port ${config.server.http.port}`);
 }
 
 /**
@@ -33,6 +33,7 @@ if (config.server.enableHTTPS) {
         key: fs.readFileSync(config.server.https.privatekeyPath)
     };
     https.createServer(sslOptions, app).listen(config.server.https.port);
+    logger.info(`${config.server.https.name} running on port ${config.server.https.port}`)
 }
 
 module.exports = app;

@@ -2,7 +2,7 @@
 /**
  * Require our modules
  */
-const Op = require('Sequelize').Op;
+const Op = require('sequelize').Op; // @TODO: Verify for docker-compose
 const models = require('../../../../database/models');
 const Users = models.Users;
 

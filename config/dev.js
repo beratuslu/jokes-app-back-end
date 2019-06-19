@@ -6,8 +6,8 @@ module.exports = {
     // Enable logging
     logging: {
         dir: './logs',
-        level: 'verbose',
-        datePattern: 'yyyy-MM-dd'
+        level: 'debug',
+        datePattern: 'YYYY-MM-DD'
     },
     // Server config - For non-development environments, set this in the Environment Variables
     server: {
@@ -29,11 +29,10 @@ module.exports = {
         username: 'root',
         password: 'password',
         database: 'frontmen_boilerplate_v1',
-        host: '127.0.0.1',
+        host: process.env.COMPOSE ? 'frontmen_database' : '127.0.0.1', // If we use Docker Compose, we need a to define the host as the name of the Docker service (frontmen_database)
         port: '3306',
         dialect: 'mysql',
         logging: false, // Enable/ Disable console logging,
-        operatorsAliases: false, // use Symbol based operators for better security
         pw_salt_factor: 12
     },
     // Admin user - For non-development environments, set this in the Environment Variables

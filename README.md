@@ -30,7 +30,7 @@ To get this Boilerplate up & running you need to have some components installed 
 1. Alter the database settings in the config-folder for your environment. This Boilerplate uses environment variables (NODE_ENV). When no NODE_ENV is set, the environment variable 'dev' is used.
 1. Create a Database named: frontmen_boilerplate_v1 or be lazy and let Sequelize-CLI do it for you. Run `$ sequelize db:create frontmen_boilerplate_v1 --env=autodetect` in your terminal. Make sure the database user in the config has sufficient rights for this database.
 1. To create the Database schema, simply run `$ sequelize db:migrate --env=autodetect`.
-1. Let's add some data in the Database by running `$sequelize db:seed:all --env=autodetect`.
+1. Let's add some data in the Database by running `$ sequelize db:seed:all --env=autodetect`.
 1. Start the server by running `$ node index.js` from the root of the project or use nodemon to use features like livereload.
 1. Or run `$ nodemon` from the root of the project to enable this feature.
 

@@ -4,34 +4,32 @@
  */
 const config = require('../../config/config');
 const winston = require('winston');
+const winstonLogger = require('winston-daily-rotate-file');
 const fs = require('fs');
-
-// Define our Timestamp Format
-const tsFormat = () => (new Date()).toLocaleTimeString();
 
 // Create the log directory if it does not exist before defining the logger
 if (!fs.existsSync( config.logging.dir )) {
   fs.mkdirSync( config.logging.dir );
 }
 
+// Create Transport
+const transport = new (winstonLogger)({
+  filename: `${ config.logging.dir }/results.log`,
+  level: config.logging.level,
+  datePattern: config.logging.datePattern,
+  zippedArchive: false,
+  maxSize: '20m',
+  maxFiles: '14d'
+});
+
 // Define the Logger
-const logger = new (winston.Logger)({
+const logger = winston.createLogger({
+  level: config.logging.level,
   transports: [
-    // colorize the output to the console
-    new (winston.transports.Console)({
-      timestamp: tsFormat,
-      colorize: true,
-      level: 'info'
-    }),
-    // Make a new Log File per day
-    new (require('winston-daily-rotate-file'))({
-      filename: `${ config.logging.dir }/-results.log`,
-      timestamp: tsFormat,
-      datePattern: config.logging.datePattern,
-      prepend: true,
-      level: config.logging.level
-    })
+    transport,
+    new winston.transports.Console()
   ]
 });
+
 // Export the module
 module.exports = logger;

@@ -12,12 +12,12 @@ const UserBranches = models.UserBranches;
  * @workaround because Seeders don't allow for Hooks in Sequelize-CLI 3. We need hooks to hash Passwords with BCrypt before inserting it into the DB
  * This will be available in Sequelize-CLI 4.
  * @TODO Migrate to Seed when Sequelize-CLI 4 is available
- * 
+ *
  * @description Check if we already added an admin account, otherwise build a new user
  */
-Users.find({ where: { username: config.admin.username } }).then( function (user) {
+Users.findAll({ where: { username: config.admin.username } }).then( function (user) {
     // No User found, build & insert it
-    if (!user) {
+    if (user.length < 1) {
         // Insert the User in the Database
         Users.build({
             firstname: config.admin.firstname,
