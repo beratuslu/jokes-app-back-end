@@ -11,17 +11,12 @@ const controller = require("./controller/jokes-controller");
 const axios = require("axios");
 
 jokes.get("/single-random-joke", async (req, res) => {
-  // Get the loggedin User
-
-  // res.status(200).json({
-  //   joke: "this is my joke---"
-  // });
+  // Get joke from external api
   try {
     const response = await axios({
       url: "http://api.icndb.com/jokes/random",
       method: "get"
     });
-    console.log("TCL: response", response.data.value);
 
     res.status(200).json(response.data.value);
   } catch (error) {

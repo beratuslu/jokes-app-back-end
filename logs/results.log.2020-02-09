@@ -76,3 +76,21 @@
 {"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
 {"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
 {"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Login: Username or Email aaa tried to login but does not exist","level":"warn"}
+{"message":"Login: Username or Email aaa tried to login but does not exist","level":"warn"}
+{"message":"Login: Username or Email asdas tried to login but does not exist","level":"warn"}
+{"message":"Login: Username or Email ss tried to login but does not exist","level":"warn"}
+{"message":"Login: Username or Email s tried to login but does not exist","level":"warn"}
+{"message":"Login: Username or Email s tried to login but does not exist","level":"warn"}
+{"message":"Login: Username or Email s tried to login but does not exist","level":"warn"}
+{"message":"Login: Username or Email s tried to login but does not exist","level":"warn"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Login: Username or Email s tried to login but does not exist","level":"warn"}
+{"message":"Login: Username or Email s tried to login but does not exist","level":"warn"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
