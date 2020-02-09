@@ -1,0 +1,6 @@
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Admin User Created. Email: niek.heezemans@frontmen.nl - Username: admin","level":"info"}
+{"message":"Admin Role ID Created","level":"info"}
+{"message":"Admin Branch ID Created","level":"info"}
+{"message":"Invalid Token on request: /users/myprofile","level":"warn"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
