@@ -1,0 +1,79 @@
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl provided a wrong password","level":"warn"}
+{"message":"Login: niek.heezemans@frontmen.nl provided a wrong password","level":"warn"}
+{"message":"Login: Username or Email ad tried to login but does not exist","level":"warn"}
+{"message":"Login: Username or Email asd tried to login but does not exist","level":"warn"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Invalid Token on request: /api/v1/jokes/single-random-joke","level":"warn"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Invalid Token on request: /api/v1/jokes/single-random-joke","level":"warn"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Invalid Token on request: /api/v1/jokes/single-random-joke","level":"warn"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Error occurred while getting joke from external API","level":"warn"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Invalid Token on request: /api/v1/jokes/single-random-joke","level":"warn"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Error occurred while getting joke from external API","level":"warn"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Invalid Token on request: /api/v1/jokes/single-random-joke","level":"warn"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Error occurred while getting joke from external API","level":"warn"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 308","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 548","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 559","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 525","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 453","level":"info"}
+{"message":"Invalid Token on request: /api/v1/jokes/single-random-joke","level":"warn"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 167","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 295","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 483","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 513","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 224","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 515","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 563","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 60","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 190","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
