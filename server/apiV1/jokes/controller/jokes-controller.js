@@ -41,6 +41,26 @@ module.exports = {
       );
     });
   },
+  deleteFavoriteJoke: (userId, jokeId) => {
+    return new Promise(async (resolve, reject) => {
+      Favorites.destroy({
+        where: {
+          userId,
+          jokeId: Number(jokeId)
+        }
+      }).then(
+        params => {
+          //success
+          resolve();
+        },
+        err => {
+          console.log("TCL: err", err);
+          // Could not Query
+          reject();
+        }
+      );
+    });
+  },
   getFavoriteJokes: (userId, joke) => {
     return new Promise(async (resolve, reject) => {
       Favorites.findAll({

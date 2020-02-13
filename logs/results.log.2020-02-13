@@ -71,3 +71,618 @@
 {"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
 {"message":"Joke: Joke returned successfully: 270","level":"info"}
 {"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Joke: Error occurred while getting joke from external API","level":"warn"}
+{"message":"Joke: Joke set as favorite successfully: 270","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: 270","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: 270","level":"info"}
+{"message":"Joke: Error occurred while getting joke from external API","level":"warn"}
+{"message":"Joke: Joke set as favorite successfully: 270","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 243","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 378","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 60","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Joke: Joke returned successfully: 451","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 195","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 27","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: 27","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 39","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 82","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 85","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 270","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 179","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Joke: Joke returned successfully: 12","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 28","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 337","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 458","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Joke: Joke returned successfully: 311","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 141","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 57","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 347","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 598","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 455","level":"info"}
+{"message":"Joke: Error occurred while deleting the joke","level":"warn"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Joke: Error occurred while deleting the joke","level":"warn"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Joke: Error occurred while deleting the joke","level":"warn"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 454","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Joke: Error occurred while deleting the joke","level":"warn"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 96","level":"info"}
+{"message":"Joke: Error occurred while deleting the joke","level":"warn"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 83","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Joke: Error occurred while deleting the joke","level":"warn"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 168","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 296","level":"info"}
+{"message":"Joke: Error occurred while deleting the joke","level":"warn"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Joke: Error occurred while deleting the joke","level":"warn"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 397","level":"info"}
+{"message":"Joke: Error occurred while deleting the joke","level":"warn"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Frontmen Boilerplate HTTP-Server running on port 3000","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 536","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 166","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 136","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 145","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 312","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 555","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 452","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 450","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 373","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 375","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 105","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 278","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 112","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 331","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: 331","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Joke: Joke returned successfully: 560","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 609","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Joke: Joke returned successfully: 55","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 191","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 396","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: 396","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 476","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 597","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 287","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Joke: Joke returned successfully: 23","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 124","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 157","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 117","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 549","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 368","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 597","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 435","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 387","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 69","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 400","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 66","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 34","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 100","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 526","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 210","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 151","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 514","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 82","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 160","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 533","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 402","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 402","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 342","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 528","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 184","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 217","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 55","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 460","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Joke: Joke returned successfully: 378","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 95","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 457","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 595","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 107","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 170","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 382","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 100","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 469","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 204","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 111","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 221","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 355","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 285","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 213","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 287","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 354","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 159","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 266","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 322","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 120","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 441","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 336","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 53","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 213","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 210","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 115","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 110","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: 53","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 518","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 498","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 91","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 66","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: 91","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 233","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 561","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 137","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 126","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 284","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 439","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 335","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 25","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 69","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 616","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 357","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 175","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 317","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 98","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 181","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 341","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 334","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 268","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 189","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 588","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 35","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 414","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 349","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 31","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 195","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 142","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 486","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: 31","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 461","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 179","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 426","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 220","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 431","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 333","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 331","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 480","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 84","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 518","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 383","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 408","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 173","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 203","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 186","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 91","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: 186","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 406","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 77","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 243","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 452","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: 452","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 524","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 178","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Joke: Joke returned successfully: 468","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 426","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 68","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 470","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 256","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 405","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: 470","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 420","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 205","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 130","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 292","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 473","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 5","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 104","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 109","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Joke: Joke returned successfully: 305","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 159","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 461","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 286","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 589","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 496","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 200","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Joke: Joke returned successfully: 6","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 20","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: 6","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 253","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 201","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 198","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 98","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 264","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: 253","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 234","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 69","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: 234","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 61","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 345","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 199","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 301","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 128","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 4","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: 4","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 375","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 69","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 31","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 602","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Joke: Joke returned successfully: 224","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 183","level":"info"}
+{"message":"Joke: Joke deleted successfully: undefined","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 390","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 479","level":"info"}
+{"message":"Joke: Error occurred while setting joke favorite","level":"warn"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 465","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 243","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 515","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 369","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 156","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 112","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 233","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 335","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 144","level":"info"}
+{"message":"Login: niek.heezemans@frontmen.nl logged in","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 442","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 464","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 229","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: 229","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 261","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 510","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: 261","level":"info"}
+{"message":"Joke: Joke set as favorite successfully: undefined","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 173","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 430","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 121","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 328","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 525","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 585","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 591","level":"info"}
+{"message":"Passport: niek.heezemans@frontmen.nl requested an API","level":"info"}
+{"message":"Joke: Joke returned successfully: 49","level":"info"}

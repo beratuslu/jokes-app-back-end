@@ -65,6 +65,41 @@ jokes.get("/get-favorite-jokes", async (req, res) => {
   }
 });
 
+jokes.delete("/delete-favorite-joke/:id", async (req, res) => {
+  console.log("TCL: delete -------------req.params: ", req.params);
+  const jwt_token = passportController.getDecodedToken(
+    req.headers.authorization
+  );
+  if (jwt_token) {
+    controller.deleteFavoriteJoke(jwt_token.guid, req.params.id).then(
+      () => {
+        // Log that joke deleted
+        logger.info("Joke: Joke deleted successfully: " + req.body.id);
+
+        // Return the result
+        res.status(200).json({ msg: "Success" });
+      },
+      err => {
+        console.log("TCL: err", err);
+        // Log that error occurred while setting joke favorite
+        logger.warn("Joke: Error occurred while deleting the joke");
+
+        // Return that the user is not found in the database
+        res.status(500).json({
+          err: "An error occurred!"
+        });
+      }
+    );
+  } else {
+    // Log that the provided username does not exist
+    logger.error("Joke: User could not decoded from token");
+    // Return that the user is not found
+    res.status(403).json({
+      err: "User not found"
+    });
+  }
+});
+
 jokes.post("/set-favorite-joke", async (req, res) => {
   const jwt_token = passportController.getDecodedToken(
     req.headers.authorization
@@ -79,10 +114,8 @@ jokes.post("/set-favorite-joke", async (req, res) => {
         res.status(200).json({ msg: "Success" });
       },
       err => {
-        // Log that error occurred while getting joke from external API
-        logger.warn(
-          "Joke: Error occurred while getting joke from external API"
-        );
+        // Log that error occurred while setting joke favorite
+        logger.warn("Joke: Error occurred while setting joke favorite");
 
         // Return that the user is not found in the database
         res.status(500).json({
