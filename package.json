@@ -33,7 +33,7 @@
     "body-parser": "^1.18.2",
     "cache-manager": "^2.6.0",
     "cors": "^2.8.5",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-winston": "^3.0.0",
     "fs": "0.0.1-security",
     "helmet": "^3.10.0",
